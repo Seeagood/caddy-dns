@@ -1,5 +1,9 @@
 # caddy-dns
 
+https://github.com/Seeagood/caddy-dns
+
+https://hub.docker.com/r/seeagood/caddy-dns
+
 获取caddy最新版本并构建包含cloudflare dns插件的docker镜像
 
 每日检查并构建，有amd64和arm64以及armv7三个架构的镜像版本
